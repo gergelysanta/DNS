@@ -40,7 +40,7 @@ $ brew install carthage
 To integrate DNS.framework into your Xcode project using Carthage, specify it in your `Cartfile`:
 
 ```ogdl
-github "Bouke/DNS"
+github "gergelysanta/DNS"
 ```
 
 Run `carthage` to build the framework and drag the built `Monitored.framework` into your Xcode project.
